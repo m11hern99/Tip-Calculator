@@ -25,11 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/aULivaLAEh.gif
-
-## Notes
-
-Describe any challenges encountered while building the app.
+<img src="https://recordit.co/iuFtWs7pGP.gif" width=250><br>
 
 ## License
 
